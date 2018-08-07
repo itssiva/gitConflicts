@@ -1,3 +1,2 @@
 Adding the first line in master
 Adding line 2 in branch 2
-
